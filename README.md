@@ -168,7 +168,8 @@ endmodule
 &emsp;&emsp;Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation<br>
 <br>
 
-![Screenshot (25)](https://github.com/user-attachments/assets/17d22a69-ad80-40ad-9b66-050a6fb033c6)
+![Screenshot (25)](https://github.com/user-attachments/assets/fc6d3340-dcc5-4eb2-803c-5b5a701427bd)
+
 
 <br>
 
@@ -200,7 +201,8 @@ endmodule
 &emsp;&emsp;Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation <br>
 <br>
 
-![Screenshot 2024-10-05 094320](https://github.com/user-attachments/assets/f32e8576-f202-48bf-9ca6-8c90e008bad6)
+![Screenshot 2024-11-22 170238](https://github.com/user-attachments/assets/e87ba866-04fe-4f62-8ae2-1b8a9bb3d6cc)
+
 
 <br>
 
@@ -236,7 +238,9 @@ endmodule
     
 &emsp;&emsp;After elaboration the file will come under snapshot. Select the test bench and simulate it. <br>
 <br>
-![Screenshot 2024-10-05 094356](https://github.com/user-attachments/assets/e9ccbae6-b490-400a-825c-a6f5f08ed60c)
+
+![Screenshot 2024-11-22 170253](https://github.com/user-attachments/assets/5e034cef-0067-4e91-be94-ddae05bf4d47)
+
 
 <br>
 
